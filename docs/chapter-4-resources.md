@@ -34,7 +34,7 @@ For doing the homework for this chapter, you will need to draw some objects
 in three-dimensional coordinate systems. Rather than make you draw them
 yourself, this page will save you time and help keep your work neat.
 
-## [Animations of 3D Affine Transformations](animations-of-affine-transformations-in-3d.md)
+## Animations of 3D Affine Transformations
 
 ### Translation of a wedge-shaped object by $\langle 3,2,-3\rangle$, $T_{3,2,-3}$
 
