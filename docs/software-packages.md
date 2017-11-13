@@ -65,7 +65,7 @@ double-click Time Lapse Assembler.
 Mac users will need to ensure that all frames of an animation are in JPEG
 format.  To do so, see the Mac OS X Service I provide for that purpose,
 which you can [download from the "first animations"
-page](https://mocg.wordpress.com/pov-break-e-resources/).
+page](pov-break-e-resources.md).
 
 # ffmpeg for Linux
 
