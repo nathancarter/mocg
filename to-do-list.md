@@ -7,5 +7,5 @@
  [x] Search for the word wordpress and ensure there are no more links there.
  [x] Replace all <tt>...</tt> blocks with `...` blocks.
  [ ] Ensure all opportunity to use Warning/Info/etc. blocks have been taken.
- [ ] Search for any <span>...</span>s and make sure they're necessary.
+ [x] Search for any <span>...</span>s and make sure they're necessary.
  [x] Ensure that level-two headers are the norm throughout all pages.
