@@ -1,0 +1,842 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-0.17.1, mkdocs-material-2.0.4">
+    
+    
+      
+        <title>POV Break D. Reusable objects - Introduction to the Mathematics of Computer Graphics</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application-709eec9410.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/application-23f75ab9c7.palette.css">
+      
+    
+    
+      <script src="../assets/javascripts/modernizr-e826f8942a.js"></script>
+    
+    
+      
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+    
+  </head>
+  
+    
+    
+    
+      <body data-md-color-primary="red" data-md-color-accent="red">
+    
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href=".." title="Introduction to the Mathematics of Computer Graphics" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <span class="md-flex__ellipsis md-header-nav__title">
+          
+            
+              
+                <span class="md-header-nav__parent">
+                  POV Break Resources
+                </span>
+              
+            
+            POV Break D. Reusable objects
+          
+        </span>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="search"></label>
+  <div class="md-search__inner">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" required placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <label class="md-icon md-search__icon" for="search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset">&#xE5CD;</button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <span class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </span>
+    Introduction to the Mathematics of Computer Graphics
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Introduction to the Mathematics of Computer Graphics" class="md-nav__link">
+      Introduction to the Mathematics of Computer Graphics
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../software-packages/" title="Software Packages" class="md-nav__link">
+      Software Packages
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Chapter Resources
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Chapter Resources
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-1-resources/" title="Chapter 1. Introduction to Computer Graphics" class="md-nav__link">
+      Chapter 1. Introduction to Computer Graphics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-2-resources/" title="Chapter 2. Two-dimensional Space" class="md-nav__link">
+      Chapter 2. Two-dimensional Space
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-3-resources/" title="Chapter 3. Affine Transformations" class="md-nav__link">
+      Chapter 3. Affine Transformations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-4-resources/" title="Chapter 4. Three Dimensions" class="md-nav__link">
+      Chapter 4. Three Dimensions
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-5-resources/" title="Chapter 5. Matrices" class="md-nav__link">
+      Chapter 5. Matrices
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-6-resources/" title="Chapter 6. Lines of Sight" class="md-nav__link">
+      Chapter 6. Lines of Sight
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-7-resources/" title="Chapter 7. Lines Intersecting Objects" class="md-nav__link">
+      Chapter 7. Lines Intersecting Objects
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-8-resources/" title="Chapter 8. Three Color Models" class="md-nav__link">
+      Chapter 8. Three Color Models
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-9-resources/" title="Chapter 9. Lighting" class="md-nav__link">
+      Chapter 9. Lighting
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-10-resources/" title="Chapter 10. Vector Functions" class="md-nav__link">
+      Chapter 10. Vector Functions
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-11-resources/" title="Chapter 11. Bézeir Curves" class="md-nav__link">
+      Chapter 11. Bézeir Curves
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-12-resources/" title="Chapter 12. Bernstein Polynomials" class="md-nav__link">
+      Chapter 12. Bernstein Polynomials
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-13-resources/" title="Chapter 13. Continuity and Bézier Curves" class="md-nav__link">
+      Chapter 13. Continuity and Bézier Curves
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-14-resources/" title="Chapter 14. Bézier Surfaces" class="md-nav__link">
+      Chapter 14. Bézier Surfaces
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../chapter-15-resources/" title="Chapter 15. Subdivision Surfaces" class="md-nav__link">
+      Chapter 15. Subdivision Surfaces
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
+    
+    <label class="md-nav__link" for="nav-4">
+      POV Break Resources
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        POV Break Resources
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pov-break-a-resources/" title="POV Break A. Introduction to POV-Ray" class="md-nav__link">
+      POV Break A. Introduction to POV-Ray
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pov-break-b-resources/" title="POV Break B. Arranging a Scene" class="md-nav__link">
+      POV Break B. Arranging a Scene
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pov-break-c-resources/" title="POV Break C. Constructive solid geometry" class="md-nav__link">
+      POV Break C. Constructive solid geometry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        POV Break D. Reusable objects
+      </label>
+    
+    <a href="./" title="POV Break D. Reusable objects" class="md-nav__link md-nav__link--active">
+      POV Break D. Reusable objects
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#three-keys-scene-file" title="Three Keys scene file" class="md-nav__link">
+    Three Keys scene file
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tinker-toys-files" title="Tinker Toys files" class="md-nav__link">
+    Tinker Toys files
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-information-for-instructors" title="Project Information for Instructors" class="md-nav__link">
+    Project Information for Instructors
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pov-break-e-resources/" title="POV Break E. First animations" class="md-nav__link">
+      POV Break E. First animations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pov-break-f-resources/" title="POV Break F. Your movie" class="md-nav__link">
+      POV Break F. Your movie
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pov-break-g-resources/" title="POV Break G. Advanced modeling" class="md-nav__link">
+      POV Break G. Advanced modeling
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#three-keys-scene-file" title="Three Keys scene file" class="md-nav__link">
+    Three Keys scene file
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tinker-toys-files" title="Tinker Toys files" class="md-nav__link">
+    Tinker Toys files
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-information-for-instructors" title="Project Information for Instructors" class="md-nav__link">
+    Project Information for Instructors
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  <h1>POV Break D. Reusable objects</h1>
+                
+                <p>This page contains links to all resources mentioned in POV Break D of the
+textbook.</p>
+<h2 id="three-keys-scene-file">Three Keys scene file<a class="headerlink" href="#three-keys-scene-file" title="Permanent link">&para;</a></h2>
+<p>Click to <a href="../files/three-keys.pov">download the POV source code</a> for the three
+keys scene.</p>
+<h2 id="tinker-toys-files">Tinker Toys files<a class="headerlink" href="#tinker-toys-files" title="Permanent link">&para;</a></h2>
+<p>Click to <a href="../files/tinker-toy-project.inc">download the INC file</a> for the
+Tinker Toys example project, or <a href="../files/tinker-toy-scene.pov">download the POV
+file</a> for the example Tinker Toys scene.</p>
+<h2 id="project-information-for-instructors">Project Information for Instructors<a class="headerlink" href="#project-information-for-instructors" title="Permanent link">&para;</a></h2>
+<p>When my students do this project, I create a wiki page in our course
+management system (Blackboard) that contains instructions for how they can
+post their work to that wiki.  I create one central page that is empty, and
+students claim a category and a set of objects within it by editing the
+central page and creating a section for their category, and putting a few
+objects within that section, attached to their name.  It might look like the
+example shown below.  They make their name and object list a link to a new
+wiki page, and place all their writing there.</p>
+<blockquote>
+<p><strong>Furniture</strong></p>
+<p><a href="./">Coffee table, sofa, and bookcase &#8211; John Doe</a></p>
+<p><a href="./">Lamp, dining room table, and ottoman &#8211; Jane Doe</a></p>
+<p><strong>Toys</strong></p>
+<p><a href="./">A variety of Lego bricks &#8211; Juan Doe</a></p>
+<p>(etc.)</p>
+</blockquote>
+<p>Everyone is required to make different objects. Although more than one
+person can work within a category, they cannot make the same objects.</p>
+<p>Having the whole class share their material in a central location like this
+makes it possible, in later projects, for students to use not only the few
+objects they created in this project, but the many objects created by the
+entire class.  In my experience, many final projects take advantage of this
+repository of objects.  It's nice for a student to see their work picked up
+by someone else and used in a new context; they can see that their work was
+appreciated and useful.</p>
+<p>Here are example categories I provide to give people ideas and guide them
+into categories that are rather reusable.</p>
+<ul>
+<li>
+<p><strong>Furniture (chair, desk, lamp, bookshelf, etc.)</strong></p>
+<p>Reusable because: Lots of indoor scenes can be made to look more
+realistic by adding some furniture.</p>
+</li>
+<li>
+<p><strong>Houses (ranch, cape, mansion, high-rise apartment complex, castle,
+   etc.)</strong></p>
+<p>Reusable because:Lots of outdoor scenes can be made to look more
+realistic by putting several common outdoor objects like houses together
+in the background (or the foreground).</p>
+</li>
+<li>
+<p><strong>Signs (road signs, billboards, green interstate direction signs, rest
+   room signs, etc.)</strong></p>
+<p>Reusable because:These can be used to decorate any scene in which they
+could realistically appear, and therefore add realism and detail.</p>
+</li>
+<li>
+<p><strong>Tableware (plates, cups, spoons, bowls, glasses, napkins, etc.)</strong></p>
+<p>Reusable because:Any still life scene could reasonably include objects
+like these.</p>
+</li>
+<li>
+<p><strong>Food (fruit, bread, cookies, etc.)</strong></p>
+<p>Reusable because:Same reason as previous</p>
+</li>
+<li>
+<p><strong>Office supplies (book, stapler, phone, pen, picture frame, coffee cup,
+   etc.)</strong></p>
+<p>Reusable because:Same reason as previous</p>
+</li>
+<li>
+<p><strong>Any particular brand of toys (e.g., one category is Lego<sup>TM</sup>
+   blocks, another is Tinker Toys<sup>TM</sup>, another is Lincoln
+   Logs<sup>TM</sup>, etc.)</strong></p>
+<p>Reusable because: One could make an entire POV scene out of just one
+type of toy.  The example I do for this project (which is already on the
+wiki) is done using Tinker Toys.</p>
+</li>
+<li>
+<p><strong>Any other category you come up with,</strong> as longs as its objects are
+   likely to be usable in future scenes. E.g., bad ideas include "electric
+   guitars" and "bunny slippers." Build something that you and/or your
+   classmates may find useful in future projects.</p>
+</li>
+</ul>
+<p>I use the following grading criteria.</p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <td>
+      Appropriately staking your claim to three useful objects, thereby ensuring that you do not duplicate someone else's work
+    </td>
+
+    <td>
+      15%
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Creating three objects, and somewhere in your work using one of the concepts documented in the POV tutorials our class created in the project from POV Break C<br /> (You must state in your wiki post which tutorial concept you used.)
+    </td>
+
+    <td>
+      15%
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Including an image for each object you created
+    </td>
+
+    <td>
+      15% (5% each)
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Including all the necessary specifications for each object you created
+    </td>
+
+    <td>
+      15% (5% each)
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Including an example scene that uses your three objects together
+    </td>
+
+    <td>
+      10%
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Ensuring your submission is clear so that others can easily use your objects
+    </td>
+
+    <td>
+      10%
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Posting an .inc file that fits the requirements given in the text, and named after the pattern from the project in POV Break B<br /> (That is, Project-D-Nathan-Carter.INC, but with your name instead.)
+    </td>
+
+    <td>
+      10%
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Creativity and/or artistry, or simply going beyond the call of duty<br /> There is clearly room for creativity/artistry in this project, the first where you create original objects!
+    </td>
+
+    <td>
+      10%
+    </td>
+  </tr>
+</table>
+                
+                  
+                
+              
+              
+                
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../pov-break-c-resources/" title="POV Break C. Constructive solid geometry" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                POV Break C. Constructive solid geometry
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../pov-break-e-resources/" title="POV Break E. First animations" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                POV Break E. First animations
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="http://www.mkdocs.org" title="MkDocs">MkDocs</a>
+        and
+        <a href="http://squidfunk.github.io/mkdocs-material/" title="Material for MkDocs">
+          Material for MkDocs</a>
+      </div>
+      
+        
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application-8e4952e681.js"></script>
+      
+      <script>app.initialize({version:"0.17.1",url:{base:".."}})</script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+      
+    
+    
+      
+    
+  </body>
+</html>
