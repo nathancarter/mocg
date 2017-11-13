@@ -2,7 +2,7 @@
 This page contains links to all resources mentioned in Chapter 15 of the
 textbook.
 
-# Ocean animations in Blender
+## Ocean animations in Blender
 
 The ocean simulation covered in this video is a large, complex mesh with
 subdivision applied.

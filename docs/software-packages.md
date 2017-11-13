@@ -1,5 +1,5 @@
 
-# POV-Ray
+## POV-Ray
 
 The Persistence of Vision Raytracer can be obtained from [its website](http://www.povray.org/).  Or you can click [this direct link to the installer for Microsoft Windows](http://www.povray.org/redirect/www.povray.org/ftp/pub/povray/Official/povwin-3.7-agpl3-setup.exe), on the download page from that same site.
 
@@ -12,7 +12,7 @@ GUI for Mac](http://megapov.inetart.net/povrayunofficial_mac/finalpov.html).
 Mac users may find it easier to get started with a copy of [the Basic Scene
 01](files/basic-scene-01.pov) from the Windows version of POV-Ray.
 
-# VirtualDub for Windows
+## VirtualDub for Windows
 
 This software package creates videos from sequences of still frames created
 in POV-Ray.  You can visit [its website](http://virtualdub.org/), or go
@@ -38,7 +38,7 @@ the file `VirtualDub.exe`.  To make a shortcut for VirtualDub on your
 desktop, right-click the `.exe` file and choose "Copy," then
 right-click on your desktop and choose to paste a shortcut.
 
-# Time Lapse Assembler for Mac OS X
+## Time Lapse Assembler for Mac OS X
 
 Download and install this application as follows.
 
@@ -67,7 +67,7 @@ format.  To do so, see the Mac OS X Service I provide for that purpose,
 which you can [download from the "first animations"
 page](pov-break-e-resources.md).
 
-# ffmpeg for Linux
+## ffmpeg for Linux
 
 Visit [the ffmpeg website](http://www.ffmpeg.org/) and follow the download
 and installation instructions for binaries for your type of Linux

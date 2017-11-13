@@ -2,14 +2,14 @@
 This page contains links to all resources mentioned in POV Break F of the
 textbook.
 
-# Bézier curves in POV
+## Bézier curves in POV
 
 Also, you can [download bezier.inc](files/bezier.inc) to add Bézier curve
 capabilities to your POV files.  Instructions for using it appear in the
 comments in a demo file; [download bezier-demo.pov](files/bezier-demo.pov)
 to see.
 
-# Movie Editing Software and Tutorials
+## Movie Editing Software and Tutorials
 
 Microsoft has [a page for Windows Movie Maker
 downloads](http://windows.microsoft.com/en-us/windows/get-movie-maker-download).
@@ -32,7 +32,7 @@ Linux.com](https://www.linux.com/learn/tutorials/398674-create-professional-vide
 and [on MediaCollege.com](http://www.mediacollege.com/software/openshot/)
 (an OpenShot sponsor).
 
-# Information for Instructors
+## Information for Instructors
 
 Instead of a final exam, my students do a final project, and we show them to
 one another during the regularly scheduled final exam period. So although we

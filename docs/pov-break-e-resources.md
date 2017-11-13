@@ -2,13 +2,13 @@
 This page contains links to all resources mentioned in POV Break E of the
 textbook.
 
-# VirtualDub for Windows
+## VirtualDub for Windows
 
 This POV Break introduces the software VirtualDub for Windows, the download
 links and installation instructions for which appear on [the Software
 Packages page of this site](software-packages.md).
 
-# Time Lapse Assembler for OS X
+## Time Lapse Assembler for OS X
 
 This POV Break introduces the software Time Lapse Assembler for Mac OS X,
 the download links and installation instructions for which appear on [the
@@ -19,7 +19,7 @@ you can use it instead of Time Lapse Assembler, according to [the directions
 on this web
 site](http://content.videoblocks.com/2011/09/how-to-create-an-time-lapse-video-in-quicktime-pro-7.html).
 
-# Convert images to JPEG Service for OS X
+## Convert images to JPEG Service for OS X
 
 If you use Time Lapse Assembler, still frames need to be in JPEG format.  To
 quickly convert a set of images to that format, use the Mac OS X Service I
@@ -35,7 +35,7 @@ You should choose Install, and thereafter you should find the service on the
 Services menu in Finder, when you have a set of image files selected.  See
 POV Break E in the textbook for more information.
 
-# 13 Example Animation Types Video
+## 13 Example Animation Types Video
 
 This video showcases the 13 animation types covered in the text.  Although
 the text includes still frames taken from some of these example animation
@@ -44,11 +44,11 @@ and it includes all 13 types rather than just a selection.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ebmzrEixIs0" frameborder="0" allowfullscreen></iframe>
 
-# Friedrich Lohmüeller's Camera Animation Video
+## Friedrich Lohmüeller's Camera Animation Video
 
 [View the video on Lohmüeller's own site](http://www.f-lohmueller.de/pov_anim/ani_5002d.htm).
 
-# Project information for Instructors
+## Project information for Instructors
 
 Because this project works best if you use it as preparation for the movie
 project, I suggest that my students begin by choosing one or more objects

@@ -2,7 +2,7 @@
 This page contains links to all resources mentioned in Chapter 3 of the
 textbook.
 
-### Bouncing ball movie
+## Bouncing ball movie
 
 Shows the value of scalings for deforming an object. At the moment of the
 bounce, the ball is briefly deformed to be flatter and wider, as balls do
@@ -11,7 +11,7 @@ raytracing engine used for projects in the textbook.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y2Ee-I34C3w" frameborder="0" allowfullscreen></iframe>
 
-### [An interactive webpage on 2D Affine Transformations](https://nathancarter.github.io/scene2d)
+## [An interactive webpage on 2D Affine Transformations](https://nathancarter.github.io/scene2d)
 
 This web page was created by the textbook author to correspond to several
 exercises in the chapter, most notably those involving scene construction
@@ -22,7 +22,7 @@ and the runner, cap, and ball shapes.
     not others. In particular, no guarantee is made that it will function
     on Microsoft Internet Explorer.
 
-### [Glyphic Technologies' Affine Transformations Applet](http://www.glyphic.com/transform/applet/4app.html)
+## [Glyphic Technologies' Affine Transformations Applet](http://www.glyphic.com/transform/applet/4app.html)
 
 A Java applet for experimenting with 2D affine transformations
 
@@ -42,7 +42,7 @@ A Java applet for experimenting with 2D affine transformations
     very much at all. Something more like $T_{40,50}$ will be
     clearly visible.
 
-### [Brown University Exploratories' Transformation Game](http://www.cs.brown.edu/exploratories/freeSoftware/repository/edu/brown/cs/exploratories/applets/transformationGame/transformation_game_java_plugin.html)
+## [Brown University Exploratories' Transformation Game](http://www.cs.brown.edu/exploratories/freeSoftware/repository/edu/brown/cs/exploratories/applets/transformationGame/transformation_game_java_plugin.html)
 
 Another Java applet that turns affine transformations into a puzzle game
 

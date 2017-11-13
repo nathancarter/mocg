@@ -6,7 +6,7 @@ quick comparison, the first two methods require Java, while the third does
 not; but consequently the first two are interactive, while the third
 produces only a static image.
 
-### [CalcPlot3D](http://web.monroecc.edu/manila/webfiles/calcNSF/JavaCode/CalcPlot3D.htm)
+## [CalcPlot3D](http://web.monroecc.edu/manila/webfiles/calcNSF/JavaCode/CalcPlot3D.htm)
 
 A useful tool for graphing vector functions and other kinds of 3D objects.
 Although this applet was created for use in calculus classes, it is useful
@@ -25,7 +25,7 @@ CalcPlot3D.
      equations).
   5. Click and drag to view from different angles.
 
-### [Sage](http://www.sagemath.org)
+## [Sage](http://www.sagemath.org)
 
 A powerful mathematics tool that you can use on your own computer or on the
 web.  [Here is a link to a webpage that evaluates Sage
@@ -41,7 +41,7 @@ parametric_plot3d([cos(t),sin(t),t],(0,2*pi))
 
 To see that example plotted, [click here](http://aleph.sagemath.org/?z=eJwrSyzSUC9R1-TlKkgsSsxNLSnKTI4vyMkvMU7RiE7OL9Yo0dQpzswDUSWxOhoGOkZaBZmamgD6qRFN&lang=sage).
 
-### [Wolfram|Alpha](http://www.wolframalpha.com)
+## [Wolfram|Alpha](http://www.wolframalpha.com)
 
 Like Sage, this online math tool does far more than just graphing vector
 functions, but we can use it for that, too.  In the input box, type input
@@ -54,7 +54,7 @@ parametric plot (t*cos t, t*sin t,t), t=0..6pi
 To see that example plotted, [click
 here](http://www.wolframalpha.com/input/?i=parametric+plot+%28t*cos+t%2C+t*sin+t%2Ct%29%2C+t%3D0..6pi).
 
-### Graphing vector functions in POV
+## Graphing vector functions in POV
 
 Download this file by clicking
 [vector-functions.inc](files/vector-functions.inc). Instructions for using
@@ -62,7 +62,7 @@ it appear in the textbook, and you can download
 [vector-demo.pov](files/vector-demo.pov) to see how I have used it in a
 demo.
 
-### Review of Derivatives
+## Review of Derivatives
 
 If it's been awhile since you've had differential calculus (what many
 colleges call "Calculus I") then here are some online review resources

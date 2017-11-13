@@ -2,14 +2,14 @@
 This page contains links to all resources mentioned in Chapter 2 of the
 textbook.
 
-### Practice Problems
+## Practice Problems
 
 I highly recommend the practice problems on vectors contained at [the
 Learning Lesson website](http://www.leadinglesson.com/vectors). Many of them
 are about three-dimensional vectors, and thus only apply after you have read
 Chapter 4, but some of them are applicable now.
 
-### Interactive Experiences
+## Interactive Experiences
 
 Check out the following GeoGebraTube interactive demos to experience point
 and vector operations in 2D with your own mouse (or finger, on most tablet

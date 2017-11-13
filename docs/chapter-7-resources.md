@@ -4,7 +4,7 @@ textbook.  In addition to the resources posted here, [some resources from
 Chapter 6 remain relevant](chapter-6-resources.md), especially the link to
 the JavaScript raytracer for the programming exercises.
 
-### Interactive Visualization
+## Interactive Visualization
 
 Created by Bentley University honors student Kevin Cox:
 
