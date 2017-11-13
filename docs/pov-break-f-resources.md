@@ -36,9 +36,9 @@ and [on MediaCollege.com](http://www.mediacollege.com/software/openshot/)
 
 Instead of a final exam, my students do a final project, and we show them to
 one another during the regularly scheduled final exam period. So although we
-all show up on the day of the &#8220;final exam,&#8221; there is no
-traditional exam, but instead there are informal presentations of final
-projects (and voting for a People's Choice award).
+all show up on the day of the "final exam," there is no traditional exam,
+but instead there are informal presentations of final projects (and voting
+for a People's Choice award).
 
 The final project is 15% of our course grade, and the breakdown for grading
 the final project is given below.
@@ -130,9 +130,9 @@ it to the class after the presentations, so that everyone can rewatch them
 at their leisure.
 
 [The final project grading sheet you can view by clicking here
-(PDF)](http://45.79.175.103/natewp/wp-content/uploads/2014/05/final-project-grading-sheet1.pdf)
-shows in detail the grading breakdown that I use for this project. The 10%
-marked &#8220;People's Choice&#8221; will be awarded based on votes given by
-each student on presentation day, as described above. It is essential to
-attend that day of class, so that each student/team can give their
-presentation, receive votes, and vote for others.
+(PDF)](files/final-project-grading-sheet1.pdf) shows in detail the grading
+breakdown that I use for this project. The 10% marked "People's Choice" will
+be awarded based on votes given by each student on presentation day, as
+described above. It is essential to attend that day of class, so that each
+student/team can give their presentation, receive votes, and vote for
+others.

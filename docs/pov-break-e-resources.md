@@ -29,13 +29,7 @@ downloading and double-click the resulting .workflow file. OS X will show
 you a prompt like the following one, asking if you want to install the
 service on your computer.
 
-<img class="aligncenter size-full wp-image-211"
-src="http://45.79.175.103/natewp/wp-content/uploads/2013/05/install-service-dialog.png"
-alt="Install Service Dialog" width="611" height="302"
-srcset="http://45.79.175.103/natewp/wp-content/uploads/2013/05/install-service-dialog.png
-624w,
-http://45.79.175.103/natewp/wp-content/uploads/2013/05/install-service-dialog-300x149.png
-300w" sizes="(max-width: 611px) 100vw, 611px" />
+![Install Service Dialog](images/install-service-dialog.png)
 
 You should choose Install, and thereafter you should find the service on the
 Services menu in Finder, when you have a set of image files selected.  See

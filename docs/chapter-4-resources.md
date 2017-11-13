@@ -27,7 +27,7 @@ A Java applet for experimenting with 3D affine transformations
 I still should add here a tutorial on this applet. It is nontrivial, because
 it requires understanding a stack of matrices onto which you push values.
 
-## [Page of 3D Axes (PDF)](http://45.79.175.103/natewp/wp-content/uploads/2012/09/page-of-3d-axes.pdf)
+## [Page of 3D Axes (PDF)](files/page-of-3d-axes.pdf)
 
 For doing the homework for this chapter, you will need to draw some objects
 in three-dimensional coordinate systems. Rather than make you draw them

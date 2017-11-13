@@ -29,13 +29,7 @@ using it are provided in the textbook itself.
      program.  One sensible place is to put it is in the same folder on
      your hard drive where you keep all your POV files.
 
-<img class="aligncenter size-large wp-image-206"
-src="http://45.79.175.103/natewp/wp-content/uploads/2013/05/virtualdub-extract.png?w=611"
-alt="Extract all files in VirtualDub" width="611" height="520"
-srcset="http://45.79.175.103/natewp/wp-content/uploads/2013/05/virtualdub-extract.png
-705w,
-http://45.79.175.103/natewp/wp-content/uploads/2013/05/virtualdub-extract-300x255.png
-300w" sizes="(max-width: 611px) 100vw, 611px" />
+![Extract all files in VirtualDub](images/virtualdub-extract.png)
 
 You do not need to download or install the software more than once; this is
 a one-time-only procedure. To run the program (now or at any future time)
@@ -61,13 +55,7 @@ Download and install this application as follows.
   4. You can then close the disk image window, find the disk image on your
      desktop, and drag it to the Trash to unmount it.
 
-<img class="aligncenter size-large wp-image-208"
-src="http://45.79.175.103/natewp/wp-content/uploads/2013/05/time-lapse-assembler-installation.png?w=611"
-alt="Contents of Time Lapse Assembler disk image" width="611" height="369"
-srcset="http://45.79.175.103/natewp/wp-content/uploads/2013/05/time-lapse-assembler-installation.png
-736w,
-http://45.79.175.103/natewp/wp-content/uploads/2013/05/time-lapse-assembler-installation-300x181.png
-300w" sizes="(max-width: 611px) 100vw, 611px" />
+![Contents of Time Lapse Assembler disk image](images/time-lapse-assembler-installation.png)
 
 You only need to follow this installation procedure once.  Now that the
 software is installed on your computer, to launch it, simply navigate to
