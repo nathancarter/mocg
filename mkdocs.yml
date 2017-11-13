@@ -1,0 +1,52 @@
+site_name: Introduction to the Mathematics of Computer Graphics
+pages:
+- Introduction to the Mathematics of Computer Graphics: index.md
+- Software Packages: software-packages.md
+- Chapter Resources:
+    - Chapter 1. Introduction to Computer Graphics: chapter-1-resources.md
+    - Chapter 2. Two-dimensional Space: chapter-2-resources.md
+    - Chapter 3. Affine Transformations: chapter-3-resources.md
+    - Chapter 4. Three Dimensions: chapter-4-resources.md
+    - Chapter 5. Matrices: chapter-5-resources.md
+    - Chapter 6. Lines of Sight: chapter-6-resources.md
+    - Chapter 7. Lines Intersecting Objects: chapter-7-resources.md
+    - Chapter 8. Three Color Models: chapter-8-resources.md
+    - Chapter 9. Lighting: chapter-9-resources.md
+    - Chapter 10. Vector Functions: chapter-10-resources.md
+    - Chapter 11. Bézeir Curves: chapter-11-resources.md
+    - Chapter 12. Bernstein Polynomials: chapter-12-resources.md
+    - Chapter 13. Continuity and Bézier Curves: chapter-13-resources.md
+    - Chapter 14. Bézier Surfaces: chapter-14-resources.md
+    - Chapter 15. Subdivision Surfaces: chapter-15-resources.md
+- POV Break Resources:
+    - POV Break A. Introduction to POV-Ray: pov-break-a-resources.md
+    - POV Break B. Arranging a Scene: pov-break-b-resources.md
+    - POV Break C. Constructive solid geometry: pov-break-c-resources.md
+    - POV Break D. Reusable objects: pov-break-d-resources.md
+    - POV Break E. First animations: pov-break-e-resources.md
+    - POV Break F. Your movie: pov-break-f-resources.md
+    - POV Break G. Advanced modeling: pov-break-g-resources.md
+theme:
+  name: 'material'
+  palette:
+    primary: 'red'
+    accent: 'red'
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
