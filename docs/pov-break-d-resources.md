@@ -160,7 +160,7 @@ I use the following grading criteria.
 
   <tr>
     <td>
-      Posting an .inc file that fits the requirements given in the text, and named after the pattern from the project in POV Break B<br /> (That is, `Project-D-Nathan-Carter.INC`, but with your name instead.)
+      Posting an .inc file that fits the requirements given in the text, and named after the pattern from the project in POV Break B<br /> (That is, Project-D-Nathan-Carter.INC, but with your name instead.)
     </td>
 
     <td>

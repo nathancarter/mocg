@@ -5,12 +5,14 @@ The Persistence of Vision Raytracer can be obtained from [its website](http://ww
 
 Instructions for installing and using the software are provided in the textbook itself.
 
-The textbook recommends that Mac users install the Windows version in a
-virtual machine, or using Wine.  But if you prefer a native user interface,
-even if it doesn't match the texbook's content, see [the Unofficial POV-Ray
-GUI for Mac](http://megapov.inetart.net/povrayunofficial_mac/finalpov.html).
-Mac users may find it easier to get started with a copy of [the Basic Scene
-01](files/basic-scene-01.pov) from the Windows version of POV-Ray.
+!!! note
+    The textbook recommends that Mac users install the Windows version in a
+    virtual machine, or using Wine.  But if you prefer a native user
+    interface, even if it doesn't match the texbook's content, see [the
+    Unofficial POV-Ray GUI for
+    Mac](http://megapov.inetart.net/povrayunofficial_mac/finalpov.html).
+    Mac users may find it easier to get started with a copy of [the Basic
+    Scene 01](files/basic-scene-01.pov) from the Windows version of POV-Ray.
 
 ## VirtualDub for Windows
 
@@ -31,12 +33,15 @@ using it are provided in the textbook itself.
 
 ![Extract all files in VirtualDub](images/virtualdub-extract.png)
 
-You do not need to download or install the software more than once; this is
-a one-time-only procedure. To run the program (now or at any future time)
-use Windows Explorer to navigate to the folder you chose and double-click
-the file `VirtualDub.exe`.  To make a shortcut for VirtualDub on your
-desktop, right-click the `.exe` file and choose "Copy," then
-right-click on your desktop and choose to paste a shortcut.
+!!! tip
+    You do not need to download or install the software more than once;
+    this is a one-time-only procedure. To run the program (now or at any
+    future time) use Windows Explorer to navigate to the folder you chose
+    and double-click the file `VirtualDub.exe`.
+
+To make a shortcut for VirtualDub on your desktop, right-click the `.exe`
+file and choose "Copy," then right-click on your desktop and choose to paste
+a shortcut.
 
 ## Time Lapse Assembler for Mac OS X
 
@@ -57,10 +62,11 @@ Download and install this application as follows.
 
 ![Contents of Time Lapse Assembler disk image](images/time-lapse-assembler-installation.png)
 
-You only need to follow this installation procedure once.  Now that the
-software is installed on your computer, to launch it, simply navigate to
-your Applications folder (which appears in the Dock, for many users) and
-double-click Time Lapse Assembler.
+!!! tip
+    You need to follow this installation procedure only once.  Now that the
+    software is installed on your computer, to launch it, simply navigate to
+    your Applications folder (which appears in the Dock, for many users) and
+    double-click Time Lapse Assembler.
 
 Mac users will need to ensure that all frames of an animation are in JPEG
 format.  To do so, see the Mac OS X Service I provide for that purpose,

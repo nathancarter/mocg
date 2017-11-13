@@ -17,9 +17,10 @@ my own initials.
 
 ## Free graph paper online
 
-I recommend using graph paper to plan your projects before you begin them.
-[You can get free graph paper online
-here](http://incompetech.com/graphpaper/), among other places.
+!!! tip
+    I recommend using graph paper to plan your projects before you begin
+    them.  [You can get free graph paper online
+    here](http://incompetech.com/graphpaper/), among other places.
 
 ## Project Information for Instructors
 

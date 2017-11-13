@@ -25,7 +25,7 @@ If you use Time Lapse Assembler, still frames need to be in JPEG format.  To
 quickly convert a set of images to that format, use the Mac OS X Service I
 provide on this website; [download it
 here](files/Convert%20images%20to%20JPEG.workflow.zip). Unzip it after
-downloading and double-click the resulting .workflow file. OS X will show
+downloading and double-click the resulting `.workflow` file. OS X will show
 you a prompt like the following one, asking if you want to install the
 service on your computer.
 
@@ -57,7 +57,7 @@ objects in this project also. They may need to create such objects if they
 don't already have access to them. This project is designed to be work they
 would mostly have to do as part of [POV Break F](pov-break-f-resources.md)'s
 project anyway. It can serve as a rough draft or initial concepts that will
-form part of that later movie project. I do not _require _that this project
+form part of that later movie project. I do not _require_ that this project
 be connected to the movie project; students who are still uncertain about
 what their movie project will be may do this project on its own and figure
 that out later.

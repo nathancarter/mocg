@@ -6,6 +6,6 @@
      become links to files stored in this repo
  [x] Search for the word wordpress and ensure there are no more links there.
  [x] Replace all <tt>...</tt> blocks with `...` blocks.
- [ ] Ensure all opportunity to use Warning/Info/etc. blocks have been taken.
+ [x] Ensure all opportunity to use Warning/Info/etc. blocks have been taken.
  [x] Search for any <span>...</span>s and make sure they're necessary.
  [x] Ensure that level-two headers are the norm throughout all pages.

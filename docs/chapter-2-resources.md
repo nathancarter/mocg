@@ -4,10 +4,11 @@ textbook.
 
 ## Practice Problems
 
-I highly recommend the practice problems on vectors contained at [the
-Learning Lesson website](http://www.leadinglesson.com/vectors). Many of them
-are about three-dimensional vectors, and thus only apply after you have read
-Chapter 4, but some of them are applicable now.
+!!! tip
+    I highly recommend the practice problems on vectors contained at [the
+    Learning Lesson website](http://www.leadinglesson.com/vectors). Many of
+    them are about three-dimensional vectors, and thus only apply after you
+    have read Chapter 4, but some of them are applicable now.
 
 ## Interactive Experiences
 

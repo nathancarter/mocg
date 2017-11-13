@@ -59,12 +59,14 @@ project, and consult any other kind of resource they see fit. But of course,
 no team should present anyone else's work as their own, in keeping with the
 usual academic integrity standards.
 
-I set aside a few class periods near the end of the semester for discussing
-these projects in class. I let the class choose what we should discuss
-during those periods, and usually they end up being workshops, in the sense
-that they are times when teams of two meet and work together in class, while
-I move among them and answer individual questions about difficulties with a
-specific detail of a scene, an object, an animation, etc.
+!!! tip
+    I set aside a few class periods near the end of the semester for
+    discussing these projects in class. I let the class choose what we
+    should discuss during those periods, and usually they end up being
+    workshops, in the sense that they are times when teams of two meet and
+    work together in class, while I move among them and answer individual
+    questions about difficulties with a specific detail of a scene, an
+    object, an animation, etc.
 
 I also place the following restrictions on my students' work.
 
@@ -117,13 +119,14 @@ Each movie must be submitted as follows.
     presenting, try to show it full-screen, for the best audience
     experience.
 
-I require that this email arrive **one hour (or more) before the final exam
-period,** so that I am able to put all presentation files onto the classroom
-podium PC before the final exam period begins. (It wastes too much time if
-every single team inserts a pen drive and drags a presentation onto the
-podium PC before presenting. If I ensure that all presentations are in one
-folder on the desktop ready to go, everything goes more smoothly and is less
-boring for the audience.)
+!!! warning
+    I require that this email arrive **one hour (or more) before the final
+    exam period,** so that I am able to put all presentation files onto the
+    classroom podium PC before the final exam period begins. (It wastes too
+    much time if every single team inserts a pen drive and drags a
+    presentation onto the podium PC before presenting. If I ensure that all
+    presentations are in one folder on the desktop ready to go, everything
+    goes more smoothly and is less boring for the audience.)
 
 I also construct a YouTube playlist containing all final projects and email
 it to the class after the presentations, so that everyone can rewatch them

@@ -4,11 +4,12 @@ textbook.
 
 ## Practice Problems
 
-I highly recommend the practice problems on vectors contained at [the
-Learning Lesson website](http://www.leadinglesson.com/vectors). I mentioned
-these same problems in Chapter 2, but only some were applicable then,
-because you had not yet learned about three dimensional space. Now, all such
-problems are good practice.
+!!! tip
+    I highly recommend the practice problems on vectors contained at [the
+    Learning Lesson website](http://www.leadinglesson.com/vectors). I
+    mentioned these same problems in Chapter 2, but only some were
+    applicable then, because you had not yet learned about three
+    dimensional space. Now, all such problems are good practice.
 
 ## POV File of Three Keys Scene
 

@@ -108,13 +108,14 @@ Again it is very easy to earn 60% by simply submitting information in the
 correct form, even if it is completely wrong and useless. That's generous of
 me, but of course 60% is not actually a passing grade.
 
-The writing clearly portion of the assignment is not easy at all; I grade it
-harshly, especially since they have another opportunity to fix their
-mistakes and improve their grade. I suggest that they write once, then go
-back and revise several times, just as their Expository Writing 101 teachers
-taught. Writing about technical material is hard, and I encourage them to
-allocate time for doing this well, preferably over a period of several days,
-a little at a time.
+!!! warning
+    The writing clearly portion of the assignment is not easy at all; I
+    grade it harshly, especially since they have another opportunity to fix
+    their mistakes and improve their grade. I suggest that they write once,
+    then go back and revise several times, just as their Expository Writing
+    101 teachers taught. Writing about technical material is hard, and I
+    encourage them to allocate time for doing this well, preferably over a
+    period of several days, a little at a time.
 
 The creativity portion of this assignment is only 5% because this assignment
 has less room for creativity. I also include in that category doing
