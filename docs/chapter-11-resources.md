@@ -23,8 +23,7 @@ can see how the control points determine the curve as you drag them around.
 # Car-and-track scene
 
 You can [download the .pov scene file containing the car and
-track](https://www.dropbox.com/s/r75ou4lbl6re6za/car-turns.pov?dl=0), for
-use in exercises that ask you to modify it.
+track](files/car-turns.pov), for use in exercises that ask you to modify it.
 
 # Explosion Example
 

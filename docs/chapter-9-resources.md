@@ -10,8 +10,8 @@ exercise asks you to fill in the formulas.
 
 Choose a format:
 
- * [The old Excel format (.xls)](https://www.dropbox.com/s/ft453fafjmajcy3/Lighting%20Assignment.xls?dl=0)
- * [The new Excel format (.xlsx)](https://www.dropbox.com/s/ex3v2mkj2iaj4wp/Lighting%20Assignment.xlsx?dl=0).
+ * [The old Excel format (.xls)](files/Lighting%20Assignment.xls)
+ * [The new Excel format (.xlsx)](files/Lighting%20Assignment.xlsx).
 
 Other spreadsheet software (such as [OpenOffice.org's
 Calc](http://www.openoffice.org/product/calc.html) or [Apple's

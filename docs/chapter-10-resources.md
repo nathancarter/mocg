@@ -57,10 +57,10 @@ here](http://www.wolframalpha.com/input/?i=parametric+plot+%28t*cos+t%2C+t*sin+t
 ### Graphing vector functions in POV
 
 Download this file by clicking
-[vector-functions.inc](https://www.dropbox.com/s/t10l4e64sibkqw8/vector-functions.inc?dl=0).
-Instructions for using it appear in the textbook, and you can download
-[vector-demo.pov](https://www.dropbox.com/s/ojvaunnnd8gee1b/vector-demo.pov?dl=0)
-to see how I have used it in a demo.
+[vector-functions.inc](files/vector-functions.inc). Instructions for using
+it appear in the textbook, and you can download
+[vector-demo.pov](files/vector-demo.pov) to see how I have used it in a
+demo.
 
 ### Review of Derivatives
 

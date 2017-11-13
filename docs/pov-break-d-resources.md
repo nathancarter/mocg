@@ -4,17 +4,14 @@ textbook.
 
 ## Three Keys scene file
 
-Click to [download the POV source
-code](https://www.dropbox.com/s/slfwjwfkbjixstx/three-keys.pov?dl=0) for the
-three keys scene.
+Click to [download the POV source code](files/three-keys.pov) for the three
+keys scene.
 
 ## Tinker Toys files
 
-Click to [download the INC
-file](https://www.dropbox.com/s/3d4cctwwo3jqbps/tinker-toy-project.inc?dl=0)
-for the Tinker Toys example project, or [download the POV
-file](https://www.dropbox.com/s/83lzv3qxe3v72i5/tinker-toy-scene.pov?dl=0)
-for the example Tinker Toys scene.
+Click to [download the INC file](files/tinker-toy-project.inc) for the
+Tinker Toys example project, or [download the POV
+file](files/tinker-toy-scene.pov) for the example Tinker Toys scene.
 
 ## Project Information for Instructors
 

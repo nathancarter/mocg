@@ -4,11 +4,9 @@ textbook.
 
 # Bézier curves in POV
 
-Also, you can [download
-bezier.inc](https://www.dropbox.com/s/xxwckesvo2c0stf/bezier.inc?dl=0) to
-add Bézier curve capabilities to your POV files.  Instructions for using it
-appear in the comments in a demo file; [download
-bezier-demo.pov](https://www.dropbox.com/s/k7sodna66rtd709/bezier-demo.pov?dl=0)
+Also, you can [download bezier.inc](files/bezier.inc) to add Bézier curve
+capabilities to your POV files.  Instructions for using it appear in the
+comments in a demo file; [download bezier-demo.pov](files/bezier-demo.pov)
 to see.
 
 # Movie Editing Software and Tutorials

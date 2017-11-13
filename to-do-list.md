@@ -1,6 +1,6 @@
 
  [x] Update all pages and test to be sure they look right
- [ ] Search for the word Dropbox and be sure that all links to files you
+ [x] Search for the word Dropbox and be sure that all links to files you
      once stored on Dropbox have become links to files stored in this repo
  [ ] Search for the word natewp and be sure that all links to files have
      become links to files stored in this repo

@@ -4,21 +4,16 @@ textbook.
 
 ## Right-handed Basic Scene
 
-[Download
-here](https://www.dropbox.com/s/yd956vlueg1snto/right-handed-basic-scene.pov?dl=0)
-the `.pov` file of the basic scene converted to a right-handed
-coordinate system.
+[Download here](files/right-handed-basic-scene.pov) the `.pov` file of the
+basic scene converted to a right-handed coordinate system.
 
 ## Download basic-shapes.inc and my scene file
 
-Download the
-[basic-shapes.inc](https://www.dropbox.com/s/5wrtdmcldar2rrr/basic-shapes.inc?dl=0)
-file to use in your project. It provides the 15 shapes you'll arrange as
-part of this project.
+Download the [basic-shapes.inc](files/basic-shapes.inc) file to use in your
+project. It provides the 15 shapes you'll arrange as part of this project.
 
-Download [the scene file for my
-example](https://www.dropbox.com/s/muic25suotdt0rf/project-1-example-ncc.pov?dl=0)
-of my own initials.
+Download [the scene file for my example](files/project-1-example-ncc.pov) of
+my own initials.
 
 ## Free graph paper online
 

@@ -12,10 +12,9 @@ problems are good practice.
 
 ### POV File of Three Keys Scene
 
-Download the file
-[three-keys.pov](https://www.dropbox.com/s/slfwjwfkbjixstx/three-keys.pov?dl=0)
-here.  This will render the scene shown in the text, and the source can be
-inspected to see how it was created.
+Download the file [three-keys.pov](files/three-keys.pov) here.  This will
+render the scene shown in the text, and the source can be inspected to see
+how it was created.
 
 ### [Animations of 3D Affine Transformations](animations-of-affine-transformations.md)
 

@@ -24,10 +24,10 @@ site](http://content.videoblocks.com/2011/09/how-to-create-an-time-lapse-video-i
 If you use Time Lapse Assembler, still frames need to be in JPEG format.  To
 quickly convert a set of images to that format, use the Mac OS X Service I
 provide on this website; [download it
-here](https://www.dropbox.com/s/mm0wbj2c2xn696a/Convert%20images%20to%20JPEG.workflow.zip?dl=0).
-Unzip it after downloading and double-click the resulting .workflow file.
-OS X will show you a prompt like the following one, asking if you want to
-install the service on your computer.
+here](files/Convert%20images%20to%20JPEG.workflow.zip). Unzip it after
+downloading and double-click the resulting .workflow file. OS X will show
+you a prompt like the following one, asking if you want to install the
+service on your computer.
 
 <img class="aligncenter size-full wp-image-211"
 src="http://45.79.175.103/natewp/wp-content/uploads/2013/05/install-service-dialog.png"
