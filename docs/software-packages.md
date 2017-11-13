@@ -34,8 +34,8 @@ using it are provided in the textbook itself.
 You do not need to download or install the software more than once; this is
 a one-time-only procedure. To run the program (now or at any future time)
 use Windows Explorer to navigate to the folder you chose and double-click
-the file <tt>VirtualDub.exe</tt>.  To make a shortcut for VirtualDub on your
-desktop, right-click the <tt>.exe</tt> file and choose "Copy," then
+the file `VirtualDub.exe`.  To make a shortcut for VirtualDub on your
+desktop, right-click the `.exe` file and choose "Copy," then
 right-click on your desktop and choose to paste a shortcut.
 
 # Time Lapse Assembler for Mac OS X
