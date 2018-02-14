@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>/software-packages/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -21,91 +21,91 @@
         
     <url>
      <loc>/chapter-1-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-2-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-3-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-4-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-5-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-6-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-7-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-8-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-9-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-10-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-11-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-12-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-13-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-14-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/chapter-15-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -115,46 +115,54 @@
         
     <url>
      <loc>/pov-break-a-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/pov-break-b-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/pov-break-c-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/pov-break-d-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/pov-break-e-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/pov-break-f-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/pov-break-g-resources/</loc>
-     <lastmod>2017-11-13</lastmod>
+     <lastmod>2018-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
+    
+
+    
+    <url>
+     <loc>/errata/</loc>
+     <lastmod>2018-02-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     
 
 </urlset>

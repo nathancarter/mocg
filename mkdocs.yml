@@ -26,6 +26,7 @@ pages:
     - POV Break E. First animations: pov-break-e-resources.md
     - POV Break F. Your movie: pov-break-f-resources.md
     - POV Break G. Advanced modeling: pov-break-g-resources.md
+- Errata: errata.md
 theme:
   name: 'material'
   palette:
