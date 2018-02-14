@@ -94,9 +94,24 @@ below it.  They should read:
 
 ## Chapter 8
 
+### Page 209
+
+In Exercise 8.10, parts (b) and \(c) were written incorrectly.
+They should be replaced with the following.
+
+(b) To combine two RGB colors subtractively, first compute their
+CMY equivalents, combine them additively, and then convert the
+result back to an RGB vector.  Redo each vector combination in
+Exercise 8.1, but this time use the procedure just described to
+combine them subtractively.
+
+\(c) Create a formula (the analog of (8.1)) for the subtractive
+combination of two RGB color vectors $\langle r_1,g_1,b_1\rangle$
+and $\langle r_2,g_2,b_2\rangle$.
+
 ### Page 210
 
-Exercise 210 should also contain this sentence:  Assume in each
+Exercise 8.13 should also contain this sentence:  Assume in each
 case that $\langle h,1,1 \rangle$ corresponds to the RGB vector
 $\langle r,g,b \rangle$ and write your answers in terms of
 $r$, $g$, $b$, and $p$.
