@@ -78,13 +78,15 @@ should be referencing Exercise 7.13, not Exercise 7.10.
 ### Page 192
 
 In order for Exercises 7.17 and 7.18 to be consistent, we should
-alter Exercise 7.17 as follows.  In part (b), the cylinder
-endpoint $(0,h,0)$ should be $(0,0,h)$.  In part (e), the cone
-endpoint $(0,h,0)$ should be $(0,0,h)$.
+alter Exercise 7.17 as follows.
+
+In part (b), the cylinder endpoint $(0,h,0)$ should be $(0,0,h)$.
+
+In part (e), the cone endpoint $(0,h,0)$ should be $(0,0,h)$.
 
 ### Page 194
 
-The cylinder in the center of Figure 7.16 has the wrong equatinos
+The cylinder in the center of Figure 7.16 has the wrong equations
 below it.  They should read:
 <center>
     $x^2-z^2=\frac12$<br>
