@@ -11,12 +11,23 @@ to see.
 
 ## Movie Editing Software and Tutorials
 
+<!--
 Microsoft has [a page for Windows Movie Maker
 downloads](http://windows.microsoft.com/en-us/windows/get-movie-maker-download).
 Tutorials for WMM appear [on Microsoft's
 website](http://windows.microsoft.com/en-us/windows-vista/getting-started-with-windows-movie-maker),
 and a collection of several are on [USF's
 website](http://etc.usf.edu/te_win/movies/windowsmm.html) as well.
+-->
+As of erly 2018, Microsoft no longer has a page for downloading Windows Movie Maker.
+*This represents a change from the textbook, which was published in 2016,
+before this change was made.*
+
+Consequently, I recommend that Windows users download
+the cross-platform, free, open-source tool
+[OpenShot](http://www.openshot.org/download/) that the text recommends for Linux users.
+Since the publication of the textbook, that produce has matured significantly
+and become available for both Windows and Mac systems as well.
 
 Macs come with iMovie already installed, but if you want a newer version
 than the one you have, you can [update through the Mac App
@@ -24,6 +35,7 @@ Store](https://itunes.apple.com/us/app/imovie/id408981434?mt=12). Tutorials
 for iMovie are available on Apple's website
 [here](http://www.apple.com/findouthow/movies/) and
 [here](http://www.apple.com/support/imovie/).
+Mac users are also free to try OpenShot, as mentioned above.
 
 Linux users can [get OpenShot from its
 webpage](http://www.openshot.org/download/). Tutorials for OpenShot appear
