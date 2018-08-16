@@ -6,6 +6,15 @@ future versions.  Thanks to those who reported errors, especially
 Larry Riddle of Agnes Scott College, who did a very thorough
 proofreading and is responsible for most of this list.
 
+## POV-Break A
+
+### Page 31
+
+The text incorrectly states that it is not possible to have the full power
+of the Insert menu from POV-Ray for Windows if you use POV-Ray for Mac.
+There is a method for getting access to that Insert menu, and it is now
+documented [on the Software Packages page](software-packages.md).
+
 ## Chapter 4
 
 ### Page 95
@@ -153,4 +162,3 @@ such as `stop`:
 In Exercise 12.29, the formula $b_{i,n}(t)$ should be written
 instead as $b_{n,i}(t)$, to be consistent with the notation in
 later chapters.
-

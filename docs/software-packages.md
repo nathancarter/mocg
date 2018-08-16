@@ -14,6 +14,32 @@ Instructions for installing and using the software are provided in the textbook 
     Mac users may find it easier to get started with a copy of [the Basic
     Scene 01](files/basic-scene-01.pov) from the Windows version of POV-Ray.
 
+!!! warning
+    The text claims that the Mac version is inferior to the Windows version
+    because the Windows version has a powerful Insert menu with many
+    ready-made shapes and scenes available for easy construction of scenes
+    and objects.
+
+    But a helpful reader informed me that
+    [POV-Ray Unofficial 3.7.0.x for Mac](http://megapov.inetart.net/povrayunofficial_mac/)
+    contains the Insert menu, if you set your preferences correctly.
+    (Thanks, Matthias!)
+
+    Do so as follows:
+
+     1. Launch the POV-Ray Unofficial 3.7.0.x application.
+     1. Click the POV-Ray menu and choose Preferences.
+     1. In the Editor tab, click the Insert Folder button as shown here.
+        ![POV-Ray Unofficial for Mac 3.7.0.x Preferences window](images/mac-insert-menu.png)
+     1. Navigate to the `/Applications` folder, and then into the
+        POV-Ray Unofficial 3.7.0.x folder.
+     1. Click Open.
+     1. Click Ok to save your preferences.
+
+    The Insert menu should then be visible.
+
+
+
 ## VirtualDub for Windows
 
 This software package creates videos from sequences of still frames created
