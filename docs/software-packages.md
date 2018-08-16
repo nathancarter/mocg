@@ -15,6 +15,8 @@ Instructions for installing and using the software are provided in the textbook 
     Scene 01](files/basic-scene-01.pov) from the Windows version of POV-Ray.
 
 !!! warning
+    **For Mac users:**
+
     The text claims that the Mac version is inferior to the Windows version
     because the Windows version has a powerful Insert menu with many
     ready-made shapes and scenes available for easy construction of scenes
@@ -32,13 +34,29 @@ Instructions for installing and using the software are provided in the textbook 
      1. In the Editor tab, click the Insert Folder button as shown here.
         ![POV-Ray Unofficial for Mac 3.7.0.x Preferences window](images/mac-insert-menu.png)
      1. Navigate to the `/Applications` folder, and then into the
-        POV-Ray Unofficial 3.7.0.x folder.
+        `POV-Ray Unofficial 3.7.0.x` folder, and then into the `Insert Menu`
+        folder.
      1. Click Open.
      1. Click Ok to save your preferences.
 
-    The Insert menu should then be visible.
+    The Insert menu should then be visible.  However, content you insert
+    into your scenes using that menu may depend on `.inc` files that POV
+    needs to be able to locate.  Thus you must also modify your render
+    settings as follows.
 
+     1. Ensure the Render Settings window is visible (see the Window menu,
+        Render settings).
+     1. In the "Files & Paths" section, notice the section on search paths
+        for include files, highlighted in the following screenshot.
+        ![POV-Ray Unofficial for Mac 3.7.0.x Render Settings window](images/mac-include-settings.png)
+     1. Click the Select button to choose an include path.
+     1. Navigate to the `/Applications` folder, and then into the
+        `POV-Ray Unofficial 3.7.0.x` folder, and then into the `include`
+        folder.
+     1. Click Open.
 
+    Then any file you create using content from the Insert menu should
+    render successfully.
 
 ## VirtualDub for Windows
 
