@@ -627,6 +627,7 @@ Scene 01</a> from the Windows version of POV-Ray.</p>
 </div>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
+<p><strong>For Mac users:</strong></p>
 <p>The text claims that the Mac version is inferior to the Windows version
 because the Windows version has a powerful Insert menu with many
 ready-made shapes and scenes available for easy construction of scenes
@@ -642,11 +643,29 @@ contains the Insert menu, if you set your preferences correctly.
 <li>In the Editor tab, click the Insert Folder button as shown here.
     <img alt="POV-Ray Unofficial for Mac 3.7.0.x Preferences window" src="../images/mac-insert-menu.png" /></li>
 <li>Navigate to the <code>/Applications</code> folder, and then into the
-    POV-Ray Unofficial 3.7.0.x folder.</li>
+    <code>POV-Ray Unofficial 3.7.0.x</code> folder, and then into the <code>Insert Menu</code>
+    folder.</li>
 <li>Click Open.</li>
 <li>Click Ok to save your preferences.</li>
 </ol>
-<p>The Insert menu should then be visible.</p>
+<p>The Insert menu should then be visible.  However, content you insert
+into your scenes using that menu may depend on <code>.inc</code> files that POV
+needs to be able to locate.  Thus you must also modify your render
+settings as follows.</p>
+<ol>
+<li>Ensure the Render Settings window is visible (see the Window menu,
+    Render settings).</li>
+<li>In the "Files &amp; Paths" section, notice the section on search paths
+    for include files, highlighted in the following screenshot.
+    <img alt="POV-Ray Unofficial for Mac 3.7.0.x Render Settings window" src="../images/mac-include-settings.png" /></li>
+<li>Click the Select button to choose an include path.</li>
+<li>Navigate to the <code>/Applications</code> folder, and then into the
+    <code>POV-Ray Unofficial 3.7.0.x</code> folder, and then into the <code>include</code>
+    folder.</li>
+<li>Click Open.</li>
+</ol>
+<p>Then any file you create using content from the Insert menu should
+render successfully.</p>
 </div>
 <h2 id="virtualdub-for-windows">VirtualDub for Windows<a class="headerlink" href="#virtualdub-for-windows" title="Permanent link">&para;</a></h2>
 <p>This software package creates videos from sequences of still frames created
