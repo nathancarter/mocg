@@ -12,7 +12,7 @@ name next to their chosen topic (first come, first served).  They make the
 topic name a link to a new wiki page, and place all their writing there.
 
 I provide two example tutorials already written, as examples of the kind of
-work I expect.  I usually create two such exmaples:
+work I expect.  I usually create two such examples:
 
   1. a reference image showcasing all of the `wood.inc` and `stones.inc`
      textures, with instructions on how to import those include files and
