@@ -26,7 +26,7 @@ all who contributed to the text.
 
 # Online exercises
 
-Dozens of exercises related to the text exist in the WeBWorK Open Problem
+Over 180 exercises related to the text exist in the WeBWorK Open Problem
 Library.  You can read about the library [here](https://webwork.maa.org/wiki/Open_Problem_Library),
 but to be able to browse it, you'll need a WeBWorK installation, as documented
 on that page.  The source code for the mathematics of computer graphics
