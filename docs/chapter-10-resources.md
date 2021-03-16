@@ -6,6 +6,12 @@ quick comparison, the first two methods require Java, while the third does
 not; but consequently the first two are interactive, while the third
 produces only a static image.
 
+## [GeoGebra](https://www.geogebra.org/3d?lang=en)
+
+GeoGebra (named for "geometry" and "algebra" together) is a very powerful tool
+and is free to use online.  Follow the link above to its 3D graphing tool,
+and just type in a function, such as `f(t)=(3t,2t+1,sin(6t))` to graph it.
+
 ## [CalcPlot3D](http://web.monroecc.edu/manila/webfiles/calcNSF/JavaCode/CalcPlot3D.htm)
 
 A useful tool for graphing vector functions and other kinds of 3D objects.
