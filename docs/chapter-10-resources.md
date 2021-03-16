@@ -1,10 +1,11 @@
 
 This page contains links to all resources mentioned in Chapter 10 of the
 textbook. It begins with several ways to graph vector functions for free on
-the web, and concludes with how to graph them within POV-Ray scenes.  As a
-quick comparison, the first two methods require Java, while the third does
-not; but consequently the first two are interactive, while the third
-produces only a static image.
+the web, and concludes with how to graph them within POV-Ray scenes.
+
+I recommend them in the order shown; GeoGebra is the best.  The two that follow
+it require Java, but do create interactive plots.  The final one does not
+require Java, but creates only a static image.
 
 ## [GeoGebra](https://www.geogebra.org/3d?lang=en)
 
@@ -21,6 +22,8 @@ f = Curve((3t,2t+1,sin(6t)),t,-10,10)
 ```
 
 You can type such code in directly, with or without the `f =`, if you prefer.
+
+You can also use GeoGebra to graph [2D parametric plots](https://geogebra.org/graphing).
 
 ## [CalcPlot3D](http://web.monroecc.edu/manila/webfiles/calcNSF/JavaCode/CalcPlot3D.htm)
 
