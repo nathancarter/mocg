@@ -12,6 +12,16 @@ GeoGebra (named for "geometry" and "algebra" together) is a very powerful tool
 and is free to use online.  Follow the link above to its 3D graphing tool,
 and just type in a function, such as `f(t)=(3t,2t+1,sin(6t))` to graph it.
 
+GeoGebra automatically converts this to its own internal code for you, which
+looks like the following, and lets you specify the lower and upper bounds on
+the variable $t$.
+
+```
+f = Curve((3t,2t+1,sin(6t)),t,-10,10)
+```
+
+You can type such code in directly, with or without the `f =`, if you prefer.
+
 ## [CalcPlot3D](http://web.monroecc.edu/manila/webfiles/calcNSF/JavaCode/CalcPlot3D.htm)
 
 A useful tool for graphing vector functions and other kinds of 3D objects.

@@ -698,6 +698,12 @@ produces only a static image.</p>
 <p>GeoGebra (named for "geometry" and "algebra" together) is a very powerful tool
 and is free to use online.  Follow the link above to its 3D graphing tool,
 and just type in a function, such as <code>f(t)=(3t,2t+1,sin(6t))</code> to graph it.</p>
+<p>GeoGebra automatically converts this to its own internal code for you, which
+looks like the following, and lets you specify the lower and upper bounds on
+the variable <span><span class="MathJax_Preview">t</span><script type="math/tex">t</script></span>.</p>
+<div class="highlight"><pre><span></span><code>f = Curve((3t,2t+1,sin(6t)),t,-10,10)
+</code></pre></div>
+<p>You can type such code in directly, with or without the <code>f =</code>, if you prefer.</p>
 <h2 id="calcplot3d"><a href="http://web.monroecc.edu/manila/webfiles/calcNSF/JavaCode/CalcPlot3D.htm">CalcPlot3D</a><a class="headerlink" href="#calcplot3d" title="Permanent link">&para;</a></h2>
 <p>A useful tool for graphing vector functions and other kinds of 3D objects.
 Although this applet was created for use in calculus classes, it is useful
