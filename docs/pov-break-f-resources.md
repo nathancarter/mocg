@@ -19,7 +19,7 @@ website](http://windows.microsoft.com/en-us/windows-vista/getting-started-with-w
 and a collection of several are on [USF's
 website](http://etc.usf.edu/te_win/movies/windowsmm.html) as well.
 -->
-As of erly 2018, Microsoft no longer has a page for downloading Windows Movie Maker.
+As of early 2018, Microsoft no longer has a page for downloading Windows Movie Maker.
 *This represents a change from the textbook, which was published in 2016,
 before this change was made.*
 
