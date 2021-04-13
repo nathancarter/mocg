@@ -8,7 +8,7 @@ These videos were created in POV-Ray, and show that POV accurately combines
 lights and filters lights according to the additive and subtractive color
 models.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UDGxbQG5L-I" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UDGxbQG5L-I?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## [Interactive color picker](http://colorizer.org/)
 

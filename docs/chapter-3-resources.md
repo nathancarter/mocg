@@ -9,7 +9,7 @@ bounce, the ball is briefly deformed to be flatter and wider, as balls do
 when they bounce. This simple animation was created with POV-Ray, the
 raytracing engine used for projects in the textbook.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y2Ee-I34C3w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2Ee-I34C3w?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## [An interactive webpage on 2D Affine Transformations](https://nathancarter.github.io/scene2d)
 

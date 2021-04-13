@@ -22,6 +22,6 @@ here.](http://geogebratube.com/student/m8579)
 
 ## Animated figures from the text
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kL2GiFTh0FE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kL2GiFTh0FE?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mfF9Sfxjol8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mfF9Sfxjol8?rel=0" frameborder="0" allowfullscreen></iframe>

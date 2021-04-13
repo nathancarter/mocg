@@ -10,7 +10,7 @@ instantaneous when we watch them at normal speed with the naked eye, they
 are nonetheless continuous changes in velocity when they are slowed down.
 
   * [A baseball hitting a bat at 140
-    mph](http://www.youtube.com/watch?v=zLcVTjiYmoM)
+    mph](http://www.youtube.com/watch?v=zLcVTjiYmoM?rel=0)
 
     (YouTube video from Washington State University's Sports Science Lab)
 
@@ -26,7 +26,7 @@ Illustrates the three levels of continuity discussed in the chapter, with a
 car moving along various paths of motion to illustrate what each type of
 continuity feels like to watch in a movie.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A3lDRn6jafs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A3lDRn6jafs?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## The car object in that video
 

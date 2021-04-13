@@ -31,4 +31,4 @@ This shows what it could look like to apply to the sphere in the POV basic
 scene the explosion macro you are asked to build in one of this chapter's
 advanced programming exercises.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aaIAS1lG88I" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aaIAS1lG88I?rel=0" frameborder="0" allowfullscreen></iframe>

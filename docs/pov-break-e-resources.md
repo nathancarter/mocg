@@ -42,7 +42,7 @@ the text includes still frames taken from some of these example animation
 types, the video obviously is a better representation, since it is animated,
 and it includes all 13 types rather than just a selection.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ebmzrEixIs0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ebmzrEixIs0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Friedrich Lohmüeller's Camera Animation Video
 
