@@ -6,6 +6,16 @@ future versions.  Thanks to those who reported errors, especially
 Larry Riddle of Agnes Scott College, who did a very thorough
 proofreading and is responsible for most of this list.
 
+## Chapter 2
+
+### Page 17
+
+The text under Figure 2.6 is not consistent with Figure 2.6.  The figure
+shows the computation $\vec v=Q-P=(4,-1)-(-1,2)=\langle 5,-3\rangle$,
+but the text instead shows $\vec v=Q-P=(5,-1)-(1,2)=\langle 4,-3\rangle$.
+The text should be changed to match the figure, using the first
+computation just shown, the one that produces $\langle 5,-3\rangle$.
+
 ## POV-Break A
 
 ### Page 31
