@@ -1,5 +1,5 @@
 site_name: Introduction to the Mathematics of Computer Graphics
-pages:
+nav:
 - Introduction to the Mathematics of Computer Graphics: index.md
 - Software Packages: software-packages.md
 - Chapter Resources:
